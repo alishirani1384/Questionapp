@@ -1,24 +1,24 @@
 const quizData=[
     {
+        question:'Where are you from?',
+        a:"USA",
+        b:"IRAN",
+        c:"CHINA",
+        correct:"b"
+    },
+    {
         question:'How old are you?',
-        a:"22",
-        b:"18",
-        c:"15",
+        a:"20",
+        b:"10",
+        c:"16",
         correct:"c"
     },
     {
-        question:'Where do you live?',
-        a:"Isfahan",
-        b:"Tehran",
-        c:"Mashhad",
-        correct:"c"
-    },
-    {
-        question:'Who is the president of Iran?',
-        a:"Ahmady",
-        b:"Trump",
-        c:"Rouhany",
-        correct:"c"
+        question:'What are you learning now?',
+        a:"Front-end",
+        b:"Back-end",
+        c:"Fullstack",
+        correct:"a"
     }
 ];
 
